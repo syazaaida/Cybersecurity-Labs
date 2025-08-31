@@ -8,18 +8,17 @@ This repository demonstrates applied knowledge in **securing systems**, **analyz
 ## Lab Categories
 
 ### 1. Penetration Testing
-- Reconnaissance and scanning with Nmap & OSINT
-- Exploitation using Metasploit and custom payloads
+- Reconnaissance and scanning with Nmap & OWASP ZAP
+- Exploitation using Burp Suite and custom payloads
 - Post-exploitation and privilege escalation
 
 ### 2. Web Application Security
-- SQL Injection exploitation and mitigation
+- Cross-Domain Misconfiguration attack testing
 - Cross-Site Scripting (XSS) attack testing
 - Authentication and session management analysis
 
 ### 3. Capture the Flag (Cyber Range)
 - Red team vs Blue team scenarios
-- SOC-style log analysis and threat detection
 - Incident response to simulated breaches
 
 ## Sample Evidence
